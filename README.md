@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there! ☄🏴🎮🎧
+## ◼◾◽🔲🔘 Who am I? 🔘🔲◽◾◼
+- I'm dark, a junior c++ programmer learning for game development. I have been learning since late January 2026 and have made various projects.
+- I've developed skills in project documentation and planning over the years which I consider a key aspect of programming.
+- I'm a 13 year old male Christian based in Kenya ✝👀
 
-<!--
-**darkplr/darkplr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎱♠🎮🌑Game Development. 🌑🎮♠🎱
+- I personally specialise in gameplay programming and I'm still learning and applying my knowledge to become a master in my chosen field.
+- I don't want to make games that people just see as "fun". I want to make games that encourage people to become Christians and give their life to Christ 
 
-Here are some ideas to get you started:
+## 💻 What am I currently doing? 💻
+- I'm learning C++ at an intermediate level and working to improve on my weak areas.
+- Making a video game which is being documented on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#  ⁜ Cheers! ⁜
+- I'd like to thank you for viewing my read me! Have a good day / afternoon / evening / night / morning!
