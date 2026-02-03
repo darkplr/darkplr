@@ -1,4 +1,4 @@
-# 👋 Hi, I'm dark!
+# 😄 Hi, I'm dark!
 **Junior C++ Programmer | Aspiring Game Developer**
 📍 Based in Kenya 🇰🇪
 
