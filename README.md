@@ -1,16 +1,32 @@
-# Hey there! ☄🏴🎮🎧
-## ◼◾◽🔲🔘 Who am I? 🔘🔲◽◾◼
-- I'm dark, a junior c++ programmer learning for game development. I have been learning since late January 2026 and have made various projects.
-- I've developed skills in project documentation and planning over the years which I consider a key aspect of programming.
-- I'm a 13 year old male Christian based in Kenya ✝👀
+# 👋 Hi, I'm dark!
+**Junior C++ Programmer | Aspiring Game Developer**
+📍 Based in Kenya 🇰🇪
 
-## 🎱♠🎮🌑Game Development. 🌑🎮♠🎱
-- I personally specialise in gameplay programming and I'm still learning and applying my knowledge to become a master in my chosen field.
-- I don't want to make games that people just see as "fun". I want to make games that encourage people to become Christians and give their life to Christ 
+---
 
-## 💻 What am I currently doing? 💻
-- I'm learning C++ at an intermediate level and working to improve on my weak areas.
-- Making a video game which is being documented on GitHub
+### 👨‍💻 About Me
+I am a 13-year-old developer with a passion for C++ and project management. I began my journey in January 2026 and am dedicated to mastering the logic behind gameplay. 
 
-#  ⁜ Cheers! ⁜
-- I'd like to thank you for viewing my read me! Have a good day / afternoon / evening / night / morning!
+As a Christian, my mission is to use my technical skills to create games that share the Gospel and encourage others in their faith. ✝️
+
+---
+
+### 🛠 Technical Skills
+
+**Programming Languages & Tools:**
+* **C++:** Basic syntax, Variables, Data Types, and Logic.
+* **Control Flow:** Conditionals (If/Else), Loops (For/While), and Switches.
+* **Project Management:** Documentation and planning.
+
+---
+
+### 📜 Certifications
+* **Introduction to C++** – [SoloLearn](https://www.sololearn.com/en/certificates/CC-577BRHEX) (Issued Feb 2026)
+
+---
+
+### 💻 Current Projects
+* **Virus.cpp:** I am currently developing a video game to apply my C++ knowledge. You can track my progress in my repositories!
+
+---
+📝 *“Whatever you do, work at it with all your heart, as working for the Lord...” — Colossians 3:23*
