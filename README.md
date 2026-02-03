@@ -26,7 +26,7 @@ As a Christian, my mission is to use my technical skills to create games that sh
 ---
 
 ### 💻 Current Projects
-* **Virus.cpp:** I am currently developing a video game to apply my C++ knowledge. You can track my progress in my repositories!
+**Water Tracker v0.1** I am currently making a program that tracks your water intake to test C++ knowledge. You can track my progress in my repositories!
 
 ---
 📝 *“Whatever you do, work at it with all your heart, as working for the Lord...” — Colossians 3:23*
