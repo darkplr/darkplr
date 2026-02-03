@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 I am a 13-year-old developer with a passion for C++ and project management. I began my journey in January 2026 and am dedicated to mastering the logic behind gameplay. 
 
-As a Christian, my mission is to use my technical skills to create games that share the Gospel and encourage others in their faith. ✝️
+As a Christian, my mission is to use my technical skills to create games that share the Gospel and encourage others in their faith. ✝
 
 ---
 
